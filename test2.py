@@ -1,1 +1,3 @@
-print("test 2")
+strings = "HoangVanCong"
+
+print(strings[:-1])
